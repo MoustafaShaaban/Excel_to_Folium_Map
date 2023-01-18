@@ -17,3 +17,10 @@ Commands Used:
 * Install requirements.txt: ``` python -m pip install -r requirements.txt ```
 
 * Run the script: ``` python script.py ```
+
+
+#### References:
+
+[Install Python on Windows](https://moustafashaaban.github.io/tutorials/General/1-Installing_Python/python/)
+
+[Install Anaconda on Windows and Create a Conda environment](https://moustafashaaban.github.io/tutorials/General/2-Installing_Anaconda/anaconda/)
